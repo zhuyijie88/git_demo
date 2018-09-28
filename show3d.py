@@ -1,5 +1,5 @@
 '''
-
+##zhyijie 2018/9/28
 The default behavior is to visualize the points as white dots
 >>>show3d.showpoints(np.random.rand(10000,3))
 
